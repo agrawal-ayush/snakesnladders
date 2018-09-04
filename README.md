@@ -5,3 +5,9 @@ Explanation: Board will be built using specific key value pairs comprising of sn
 Pros: We can access the Dict with the key which will be updated position (previous dice + new random dice number), this gives us time complexity of O(log n).
 
 Cons: Will be saving on the space complexity front with this approach. 
+
+Steps to Run it. 
+
+1. clone this repo.
+2. cd into the directory. 
+3. run elm-reactor, click on snakesNladders file. 
