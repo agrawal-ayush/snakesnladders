@@ -6,8 +6,10 @@ Pros: We can access the Dict with the key which will be updated position (previo
 
 Cons: Will be saving on the space complexity front with this approach. 
 
-Steps to Run it. 
+Prerequisites 
+1. elm 0.18 should be installed globally. 
 
+Steps to Run it. 
 1. clone this repo.
 2. cd into the directory. 
 3. run elm-reactor, click on snakesNladders file. 
